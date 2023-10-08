@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/single-cell-phox2a/static/css/main.7125f0b4.css",
+    "main.js": "/single-cell-phox2a/static/js/main.de1baba6.js",
+    "static/js/787.fa59971a.chunk.js": "/single-cell-phox2a/static/js/787.fa59971a.chunk.js",
+    "index.html": "/single-cell-phox2a/index.html",
+    "main.7125f0b4.css.map": "/single-cell-phox2a/static/css/main.7125f0b4.css.map",
+    "main.de1baba6.js.map": "/single-cell-phox2a/static/js/main.de1baba6.js.map",
+    "787.fa59971a.chunk.js.map": "/single-cell-phox2a/static/js/787.fa59971a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7125f0b4.css",
+    "static/js/main.de1baba6.js"
+  ]
+}
