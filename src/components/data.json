@@ -1,0 +1,320 @@
+[
+  {
+    "NAME": "ABPlate1A12",
+    "X": -1.352258483,
+    "Y": -2.898532328,
+    "Cluster": "ALS5"
+  },
+  {
+    "NAME": "ABPlate1A5",
+    "X": -2.757808128,
+    "Y": -1.637290892,
+    "Cluster": "ALS4"
+  },
+  {
+    "NAME": "ABPlate1A6",
+    "X": 1.4380851,
+    "Y": 1.291926685,
+    "Cluster": "ALS2"
+  },
+  {
+    "NAME": "ABPlate1B11",
+    "X": -1.292344549,
+    "Y": -2.588877138,
+    "Cluster": "ALS5"
+  },
+  {
+    "NAME": "ABPlate1B12",
+    "X": 3.860026619,
+    "Y": 1.081004444,
+    "Cluster": "ALS3"
+  },
+  {
+    "NAME": "ABPlate1B1",
+    "X": 0.671507618,
+    "Y": 2.085866156,
+    "Cluster": "ALS2"
+  },
+  {
+    "NAME": "ABPlate1B2",
+    "X": 1.051861069,
+    "Y": -1.011465964,
+    "Cluster": "ALS5"
+  },
+  {
+    "NAME": "ABPlate1B3",
+    "X": 4.234427234,
+    "Y": 0.027625147,
+    "Cluster": "ALS3"
+  },
+  {
+    "NAME": "ABPlate1B7",
+    "X": 2.640633365,
+    "Y": -0.420240816,
+    "Cluster": "ALS3"
+  },
+  {
+    "NAME": "ABPlate1C11",
+    "X": 3.183851024,
+    "Y": 1.177459779,
+    "Cluster": "ALS3"
+  },
+  {
+    "NAME": "ABPlate1C3",
+    "X": 2.33581998,
+    "Y": 2.838797274,
+    "Cluster": "ALS2"
+  },
+  {
+    "NAME": "ABPlate1C6",
+    "X": -3.186606625,
+    "Y": -2.956985888,
+    "Cluster": "ALS5"
+  },
+  {
+    "NAME": "ABPlate1C7",
+    "X": 1.686523458,
+    "Y": 3.166951957,
+    "Cluster": "ALS2"
+  },
+  {
+    "NAME": "ABPlate1D10",
+    "X": -2.393498221,
+    "Y": 2.522085372,
+    "Cluster": "ALS1"
+  },
+  {
+    "NAME": "ABPlate1D12",
+    "X": 0.802423498,
+    "Y": -2.353311953,
+    "Cluster": "ALS5"
+  },
+  {
+    "NAME": "ABPlate1D3",
+    "X": 3.573738834,
+    "Y": 0.44445664,
+    "Cluster": "ALS3"
+  },
+  {
+    "NAME": "ABPlate1D7",
+    "X": -2.500689426,
+    "Y": -1.632412848,
+    "Cluster": "ALS4"
+  },
+  {
+    "NAME": "ABPlate1E11",
+    "X": 1.860289594,
+    "Y": -0.337328848,
+    "Cluster": "ALS3"
+  },
+  {
+    "NAME": "ABPlate1E3",
+    "X": 4.240022919,
+    "Y": -0.158087906,
+    "Cluster": "ALS3"
+  },
+  {
+    "NAME": "ABPlate1E5",
+    "X": -1.811783241,
+    "Y": -3.101198134,
+    "Cluster": "ALS5"
+  },
+  {
+    "NAME": "ABPlate1E7",
+    "X": -0.096679905,
+    "Y": -3.135091719,
+    "Cluster": "ALS5"
+  },
+  {
+    "NAME": "ABPlate1E8",
+    "X": -2.850746849,
+    "Y": -3.21921533,
+    "Cluster": "ALS5"
+  },
+  {
+    "NAME": "ABPlate1F12",
+    "X": -2.226429114,
+    "Y": -3.258632597,
+    "Cluster": "ALS5"
+  },
+  {
+    "NAME": "ABPlate1F1",
+    "X": -3.223976591,
+    "Y": -2.486607489,
+    "Cluster": "ALS4"
+  },
+  {
+    "NAME": "ABPlate1F3",
+    "X": -3.528240302,
+    "Y": 1.628158632,
+    "Cluster": "ALS1"
+  },
+  {
+    "NAME": "ABPlate1F4",
+    "X": -3.420737127,
+    "Y": -2.913493094,
+    "Cluster": "ALS4"
+  },
+  {
+    "NAME": "ABPlate1F7",
+    "X": -2.267794082,
+    "Y": 1.573992315,
+    "Cluster": "ALS1"
+  },
+  {
+    "NAME": "ABPlate1G11",
+    "X": 2.876965782,
+    "Y": -0.660389361,
+    "Cluster": "ALS5"
+  },
+  {
+    "NAME": "ABPlate1G12",
+    "X": 1.116719744,
+    "Y": -1.830559191,
+    "Cluster": "ALS5"
+  },
+  {
+    "NAME": "ABPlate1G3",
+    "X": -0.502975205,
+    "Y": -1.934139666,
+    "Cluster": "ALS5"
+  },
+  {
+    "NAME": "ABPlate1G4",
+    "X": 3.757297298,
+    "Y": 0.957062784,
+    "Cluster": "ALS3"
+  },
+  {
+    "NAME": "ABPlate1G5",
+    "X": 0.074340007,
+    "Y": -1.59084886,
+    "Cluster": "ALS5"
+  },
+  {
+    "NAME": "ABPlate1G7",
+    "X": -0.469917038,
+    "Y": -3.483167109,
+    "Cluster": "ALS5"
+  },
+  {
+    "NAME": "ABPlate1G8",
+    "X": 0.760266086,
+    "Y": -1.354807314,
+    "Cluster": "ALS5"
+  },
+  {
+    "NAME": "ABPlate1H1",
+    "X": 1.37330701,
+    "Y": 3.013134661,
+    "Cluster": "ALS2"
+  },
+  {
+    "NAME": "ABPlate1H2",
+    "X": -1.772673199,
+    "Y": -1.613980231,
+    "Cluster": "ALS4"
+  },
+  {
+    "NAME": "ABPlate1H3",
+    "X": -3.806124309,
+    "Y": -2.171286043,
+    "Cluster": "ALS4"
+  },
+  {
+    "NAME": "ABPlate1H4",
+    "X": -2.097074339,
+    "Y": -2.524285254,
+    "Cluster": "ALS5"
+  },
+  {
+    "NAME": "ABPlate2A11",
+    "X": -1.337441185,
+    "Y": -2.713449415,
+    "Cluster": "ALS5"
+  },
+  {
+    "NAME": "ABPlate2A12",
+    "X": -1.638694266,
+    "Y": -2.658201155,
+    "Cluster": "ALS5"
+  },
+  {
+    "NAME": "ABPlate2A4",
+    "X": -0.162397364,
+    "Y": -1.03582519,
+    "Cluster": "ALS5"
+  },
+  {
+    "NAME": "ABPlate2A5",
+    "X": 0.5689347,
+    "Y": 3.198038283,
+    "Cluster": "ALS2"
+  },
+  {
+    "NAME": "ABPlate2A6",
+    "X": 0.308645031,
+    "Y": -2.94448131,
+    "Cluster": "ALS5"
+  },
+  {
+    "NAME": "ABPlate2A7",
+    "X": -2.839000323,
+    "Y": 2.382919613,
+    "Cluster": "ALS1"
+  },
+  {
+    "NAME": "ABPlate2A8",
+    "X": -0.66225622,
+    "Y": -2.429644045,
+    "Cluster": "ALS5"
+  },
+  {
+    "NAME": "ABPlate2B11",
+    "X": 0.891656181,
+    "Y": 2.161310378,
+    "Cluster": "ALS2"
+  },
+  {
+    "NAME": "ABPlate2B12",
+    "X": -3.454331735,
+    "Y": -1.615364489,
+    "Cluster": "ALS4"
+  },
+  {
+    "NAME": "ABPlate2B3",
+    "X": 4.350785515,
+    "Y": 0.49499518,
+    "Cluster": "ALS3"
+  },
+  {
+    "NAME": "ABPlate2B7",
+    "X": -2.52939401,
+    "Y": -1.619755205,
+    "Cluster": "ALS4"
+  },
+  {
+    "NAME": "ABPlate2B8",
+    "X": 1.338957331,
+    "Y": 3.267108056,
+    "Cluster": "ALS2"
+  },
+  {
+    "NAME": "ABPlate2C10",
+    "X": 0.350115082,
+    "Y": 2.393472377,
+    "Cluster": "ALS2"
+  },
+  {
+    "NAME": "ABPlate2C11",
+    "X": -3.169380048,
+    "Y": 1.531036201,
+    "Cluster": "ALS1"
+  },
+  {
+    "NAME": "ABPlate2C12",
+    "X": -2.254141876,
+    "Y": -0.430756029,
+    "Cluster": "ALS3"
+  }
+]
